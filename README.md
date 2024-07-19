@@ -35,6 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-wagura&count_private=true&theme=react&border_radius=10"" alt="will-wagura" /></p>
 
+<h3 align="left">Contributions</h3>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
