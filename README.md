@@ -34,3 +34,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=will-wagura&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="will-wagura" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-wagura&count_private=true&theme=react&border_radius=10"" alt="will-wagura" /></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
