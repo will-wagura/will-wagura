@@ -1,4 +1,4 @@
-![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7hi9bse45hpbiejleuz.png)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Will+Wagura!+%F0%9F%98%84"/>
 </h1>
