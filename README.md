@@ -1,3 +1,4 @@
+![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7hi9bse45hpbiejleuz.png)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Will+Wagura!+%F0%9F%98%84"/>
 </h1>
@@ -5,6 +6,8 @@
 <h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=will-wagura&label=Profile%20views&color=0e75b6&style=flat" alt="will-wagura" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 <p align="left"> <a href="https://twitter.com/will_wagura" target="blank"><img src="https://img.shields.io/twitter/follow/will_wagura?logo=twitter&style=for-the-badge" alt="will_wagura" /></a> </p>
 
