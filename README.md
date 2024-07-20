@@ -46,10 +46,10 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/will-wagura/will-wagura/blob/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://github.com/will-wagura/will-wagura/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
