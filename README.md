@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/will_wagura" target="blank"><img src="https://img.shields.io/twitter/follow/will_wagura?logo=twitter&style=for-the-badge" alt="will_wagura" /></a> </p>
 
-- 🔭 I’m currently working on **Full stack apps using react frontend and flask backend**
+- 🔭 I’m currently working on **Full stack app development**
 
-- 🌱 I’m currently learning **Software development at Moringa School**
+- 🌱 I’m currently learning **Data structures, Kubernetes and Machine learning**
 
-- 💬 Ask me about **Python, Architecture and Javascript**
+- 💬 Ask me about **Python, Javascript and anything tech**
 
 - 📫 How to reach me **wwagura0@gmail.com**
 
